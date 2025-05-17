@@ -65,7 +65,7 @@ Microsoft Excel (for preprocessing, if applicable)
 DAX (for calculated fields and measures)
 
 This is a powerBi end to end project
-Example:(https://github.com/Gitmohit56/PowerBi_dashboard_project/blob/main/Screenshot%202025-05-17%20204129.png)
+Example:![Dashboard Preview](https://github.com/Gitmohit56/PowerBi_dashboard_project/blob/main/Screenshot%202025-05-17%20204129.png)
 
 Yes! 
   i did project:)
